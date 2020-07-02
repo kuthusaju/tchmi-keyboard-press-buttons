@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# TcXaeShell Solution File, Format Version 11.00
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FE7A1B72-C5B7-4D7C-BB7D-76384D4DE8E1}") = "tchmi-keyboard-press-buttons", "HMI\HMI.hmiproj", "{C31673FE-AF64-4ABE-BD0D-9D8F47FD5CE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|TwinCAT HMI = Debug|TwinCAT HMI
+		Release|TwinCAT HMI = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C31673FE-AF64-4ABE-BD0D-9D8F47FD5CE8}.Debug|TwinCAT HMI.ActiveCfg = Debug|TwinCAT HMI
+		{C31673FE-AF64-4ABE-BD0D-9D8F47FD5CE8}.Debug|TwinCAT HMI.Build.0 = Debug|TwinCAT HMI
+		{C31673FE-AF64-4ABE-BD0D-9D8F47FD5CE8}.Release|TwinCAT HMI.ActiveCfg = Release|TwinCAT HMI
+		{C31673FE-AF64-4ABE-BD0D-9D8F47FD5CE8}.Release|TwinCAT HMI.Build.0 = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77616EA7-5AC6-4166-8B02-BF1AF4F92E06}
+	EndGlobalSection
+EndGlobal
